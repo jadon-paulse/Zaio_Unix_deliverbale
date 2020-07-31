@@ -6,7 +6,6 @@
 #check if x is less than y - output "X is less than Y"
 read -p "Enter X: " x;
 read -p "Enter Y: " y;
-read -p "Enter Z: " z;
 
 
 echo $x;
